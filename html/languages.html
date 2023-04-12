@@ -47,7 +47,7 @@
   }
 
   // select current language based on a query parameter in the URL
-  const currentLanguage = (new URLSearchParams(window.location.search)).get('lang')
+  const currentLanguage = (new URLSearchParams(window.location.search)).get('lang') || 'en'
   
   // if you are using https://weglot.com/ to translate your website uncomment the line below (and remove the line above)
   // const currentLanguage = Weglot.getCurrentLang()
