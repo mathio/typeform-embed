@@ -10,6 +10,7 @@ Not to be confused with [official embed examples](https://github.com/Typeform/em
 
 - [Error handling via typeform](https://mathio.github.io/typeform-embed/html/error-handling.html) ([related article](https://mathio28.medium.com/handle-javascript-errors-via-typeform-ec3ccc29494))
 - [Hide embedded typeform via cookie](https://mathio.github.io/typeform-embed/html/hide-via-cookie.html)
+- [Display typeform based on page language](https://mathio.github.io/typeform-embed/html/languages.html)
 
 
 ## Source code
