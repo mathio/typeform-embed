@@ -12,6 +12,7 @@ Not to be confused with [official embed examples](https://github.com/Typeform/em
 - [Hide embedded typeform via cookie](https://mathio.github.io/typeform-embed/html/hide-via-cookie.html)
 - [Display typeform based on page language](https://mathio.github.io/typeform-embed/html/languages.html)
 - [Focus the typeform programatically](https://mathio.github.io/typeform-embed/html/focus.html)
+- [Random question from Google Sheet](https://mathio.github.io/typeform-embed/html/random-question-from-google-sheet.html) (inspired by [this thread](https://community.typeform.com/integrate-your-typeform-43/can-i-use-hidden-fields-to-include-a-unique-sentence-description-in-one-of-my-questions-for-every-respondent-9184))
 
 
 ## Source code
