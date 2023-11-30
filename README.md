@@ -13,7 +13,7 @@ Not to be confused with [official embed examples](https://github.com/Typeform/em
 - [Display typeform based on page language](https://mathio.github.io/typeform-embed/html/languages.html)
 - [Focus the typeform programatically](https://mathio.github.io/typeform-embed/html/focus.html)
 - [Random question from Google Sheet](https://mathio.github.io/typeform-embed/html/random-question-from-google-sheet.html) (inspired by [this thread](https://community.typeform.com/integrate-your-typeform-43/can-i-use-hidden-fields-to-include-a-unique-sentence-description-in-one-of-my-questions-for-every-respondent-9184))
-
+- [Display data from Google Sheet based on input](https://mathio.github.io/typeform-embed/html/retrieve-from-google-sheet.html) (inspired by [this thread](https://community.typeform.com/build-your-typeform-7/retrieving-values-based-upon-responses-10777))
 
 ## Source code
 
