@@ -28,7 +28,8 @@
 <p><button id="clear">Click here</button> to clear all related cookies and refresh the page to restart the experiment.</p>
 
 <script>
-  const typeformId = 'Cqrg7cgL'
+  const typeformId = 'hjc64WlZ'
+  const hidden = { question: 'How are you today?' }
   const dismissForDays = 30
   const cookieDefinition = 'typeformDismissed=yes'
   
@@ -62,7 +63,7 @@
     wrapper.append(script)
     
     script.onload = () => {
-      window.tf.createWidget(typeformId, { container })
+      window.tf.createWidget(typeformId, { container, hidden })
     }
     
     const dismissButton = document.createElement('button')
@@ -90,6 +91,7 @@
       popupButton.innerText = 'open typeform in popup'
       popupButton.onclick = () => {
         window.tf.createPopup(typeformId, {
+          hidden,
           onClose: () => {
             setDismissCookie()
           }
